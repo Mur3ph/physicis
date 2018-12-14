@@ -18,3 +18,8 @@
 1. [The Ultimate Richard Feynman Collection](http://physicsdatabase.com/2013/12/29/the-ultimate-richard-feynman-collection/)
 2. [Feynman Leactures (Youtube)](https://www.youtube.com/playlist?list=PLLom0wCJlLFyHHvTAAUwbaRUv72jz8mjT)
 3. [Khan Academy Physics (Youtube)](https://www.youtube.com/channel/UCmUqTcxmzgnQOTsBSzG6orw)
+
+
+
+## Cool Physics
+1. [Planet Hopf](https://www.math.toronto.edu/drorbn/Gallery/KnottedObjects/PlanetHopf/)
